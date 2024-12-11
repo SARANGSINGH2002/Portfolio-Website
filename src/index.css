@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+      
+}
+body{
+    height: 100vh;
+    background: #161513;
+    color: white;
+    margin: 0; 
+    overflow-x: hidden;
+}
+/* @media(max-width:768px){
+    .body{
+        margin: 0; 
+        overflow-x: hidden;
+    }
+} */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Ensures padding and border are included in element's dimensions */
+}
+
+body {
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+    width: 100%;
+}
